@@ -1,0 +1,12 @@
+$example-color: #216ff6;
+
+h1,h2,h3 {
+  background-color: $example-color;
+  color: white;
+  padding: 5px;
+}
+
+.content a {
+  color: $example-color;
+  text-decoration: underline;
+}
